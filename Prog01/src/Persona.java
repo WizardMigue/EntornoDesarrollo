@@ -65,7 +65,7 @@ public class Persona {
 
 	/**
 	 * Establece la edad pasada como entero.
-	 * 
+	 * [{@literal<b>hola</b>}
 	 * @param edad es un entero sin restricciones.
 	 */
 
